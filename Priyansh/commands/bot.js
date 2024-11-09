@@ -70,7 +70,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "bot ka malik")) {
-     return api.sendMessage("༻𝐎𝐖𝐍𝐄𝐑:- ☞ ༻☞[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟⃝⃞⃟⃝⃞⃟⃝⃞⃟⃝⃞⃟⃝⃞⃟⃝⃞⃟⃝⃞⃟𝐊𝐇𝐀𝐍 𝐒𝐀𝐇𝐀𝐁🎸  ☜ 𝚈𝚘 𝙲𝚊𝚗 𝙲𝚊𝚕 𝚕 𝙷𝚒𝚖 𝙎𝙝𝙖𝙖𝙣. ☜ ༺༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- https://www.facebook.com/.shankhank.345 ☞    his insta id @𝙎𝙃𝘼𝘼𝙉 𝙆𝙃𝘼𝙉 𝙆 ☜ ༺༒ ༒", threadID);
+     return api.sendMessage("༻𝐎𝐖𝐍𝐄𝐑:- ☞ ༻☞[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟𝙎𝙝𝙖𝙖𝙣 𝙠𝙝𝙖𝙣🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝙎𝙝𝙖𝙖𝙣. ☜ ༺༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- https://www.facebook.com/.shankhank.345 ☞    his insta id @𝙎𝙃𝘼𝘼𝙉 𝙆𝙃𝘼𝙉 𝙆 ☜ ༺༒ ༒", threadID);
    };
 
    if ((event.body.toLowerCase() == "tera Malik kon hai") || (event.body.toLowerCase() == "is bot ka malik kon hai")) {
@@ -78,7 +78,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "tera admin kon hai") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-     return api.sendMessage("My admin is 𝐊𝐇𝐀𝐍 𝐒𝐀𝐇𝐀𝐁. He Gives his name mr Shaan everywhare", threadID);
+     return api.sendMessage("My admin is 𝙎𝙝𝙖𝙖𝙣 𝙠𝙝𝙖𝙣. He Gives his name mr Shaan everywhare", threadID);
    };
 
    if ((event.body.toLowerCase() == "acha") || (event.body.toLowerCase() == "acha ji")) {S    return api.sendMessage("🤍Hanji jaann🙈✨", threadID);
@@ -404,14 +404,14 @@ if ((event.body.toLowerCase() == "🤐")) {
 
   if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
     var msg = {
-      body: `»❣️${name}❣️« 
+      body: `»🇵🇰${name}🇵🇰« 
 
 ❖•━━━━━🙂━━━━━•❖,
 
 
 ${rand}                                        
 
-𝗖𝗿𝗲𝗱𝗶𝘁𝘀:𒁍≛⃝𝐊𝐇𝐀𝐍 𝐒𝐀𝐇𝐀𝐁 ❥||ㅎ
+𝗖𝗿𝗲𝗱𝗶𝘁𝘀:𒁍≛⃝𝐤𝐡𝐚𝐧 𝐬𝐚𝐡𝐚𝐛 ❥||ㅎ
 
 ❖•━━━━━🙂━━━━━•❖`
     }
